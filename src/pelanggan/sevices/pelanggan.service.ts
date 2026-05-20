@@ -15,9 +15,9 @@ export class PelangganService {
   async savePelanggan(): Promise<any> {
     try {
       const pelanggan = {
-        namaLengkap: 'arianysyah akbar',
-        email: 'akbar@email.com',
-        noHp: '08123456789',
+        namaLengkap: 'Muh. Alim Najib ks',
+        email: 'alimnajib09@email.com',
+        noHp: '089646579493',
         isActivated: true,
         password: '123',
         keterangan: 'pelanggan baru',
